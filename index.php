@@ -90,8 +90,10 @@
         return $x * factorial($x - 1);
     }
 
-    echo factorial(4);*/
+    echo factorial(4)
 
+
+    //Вывод чисел от нуля до аргумента
     function numbers(int $x) {
         if ($x === 0) {
             echo $x;
@@ -101,7 +103,7 @@
         echo ', ' . $x;
     }
 
-    numbers(10);
+    numbers(10);*/
 
     ?>
 </body>
