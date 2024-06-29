@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-
+//заканчиваем сессию
 session_destroy();
 
 echo 'Вы закончили сессию';
