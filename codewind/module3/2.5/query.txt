@@ -1,0 +1,1 @@
+SELECT * FROM `employe` WHERE salary>450 AND salary<1100
